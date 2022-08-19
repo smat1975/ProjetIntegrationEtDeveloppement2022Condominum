@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/Identity" Path="C:\Users\steph\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.26\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/CondominiumManagement" Path="C:\Users\steph\DevTemp\TFE2022\CondominiumManagement-Versions\CondominiumManagementBonneBaseBBRepriseDEV\src\CondominiumManagement\wwwroot\" />
+</StaticWebAssets>
